@@ -80,16 +80,14 @@ A short press toggles the LED, and a long press activates a buzzer. The OLED sho
 **Wokwi Project Link:**  
 🔗 [View Simulation on Wokwi](https://wokwi.com/projects/445792788940889089)
 
-## Screenshots
+## 🖼️ Screenshots
 
 Task 2 Output
-![Task 2 Output](Task%2002/Pictures/Task-02.png)
+<img src="Task%2002/Pictures/Task-02.png" alt="Task 2 Output" width="500"/>
 
 Task 2 Hardware
-![Task 2 Hardware](Task%2002/Pictures/Task%202%20Hardware.jpeg)
+<img src="Task%2002/Pictures/Task%202%20Hardware.jpeg" alt="Task 2 Hardware" width="500"/>
 
-
----
 
 
 
