@@ -83,10 +83,13 @@ A short press toggles the LED, and a long press activates a buzzer. The OLED sho
 ## 🖼️ Screenshots
 
 Task 2 Output
-<img src="Task%2002/Pictures/Task-02.png" alt="Task 2 Output" width="500"/>
+<img width="1366" height="768" alt="Task-02" src="https://github.com/user-attachments/assets/57ef5a7b-b72e-438f-8093-f121b65a96c8" />
+
 
 Task 2 Hardware
-<img src="Task%2002/Pictures/Task%202%20Hardware.jpeg" alt="Task 2 Hardware" width="500"/>
+![Task 2 Hardware](https://github.com/user-attachments/assets/4b270e3e-96f3-44f4-8a3c-0536397aff85)
+
+
 
 
 
