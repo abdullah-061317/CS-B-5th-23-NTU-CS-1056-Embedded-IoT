@@ -44,11 +44,14 @@ Buttons toggle LEDs and buzzer states, and OLED updates accordingly in real-time
 **Wokwi Project Link:**  
 🔗 [View Simulation on Wokwi](https://wokwi.com/projects/445735049640047617)
 
-**Screenshots:**  
-![Task 1 Output](c:\Users\Muhammad Abdullah\Desktop\5TH SEM\Embedded IOT\Assignment-01-(23-NTU-CS-1056)\Task 01\Pictures\Task-01.png)   
-![Task 1 Hardware](c:\Users\Muhammad Abdullah\Desktop\5TH SEM\Embedded IOT\Assignment-01-(23-NTU-CS-1056)\Task 01\Pictures\Task 1 Hardware.jpeg)
+## Screenshots
 
----
+Task 1 Output
+![Task 1 Output](Task%2001/Pictures/Task-01.png)
+
+Task 1 Hardware
+![Task 1 Hardware](Task%2001/Pictures/Task%201%20Hardware.jpeg)
+
 
 ## 🔹 Task 2 – Button Press Duration Detection (Short / Long Press with OLED)
 
@@ -77,9 +80,14 @@ A short press toggles the LED, and a long press activates a buzzer. The OLED sho
 **Wokwi Project Link:**  
 🔗 [View Simulation on Wokwi](https://wokwi.com/projects/445792788940889089)
 
-**Screenshots:**  
-![Task 2 Output](c:\Users\Muhammad Abdullah\Desktop\5TH SEM\Embedded IOT\Assignment-01-(23-NTU-CS-1056)\Task 02\Pictures\Task-02.png)  
-![Task 2 Hardware](c:\Users\Muhammad Abdullah\Desktop\5TH SEM\Embedded IOT\Assignment-01-(23-NTU-CS-1056)\Task 02\Pictures\Task 2 Hardware.jpeg)
+## Screenshots
+
+Task 2 Output
+![Task 2 Output](Task%2002/Pictures/Task-02.png)
+
+Task 2 Hardware
+![Task 2 Hardware](Task%2002/Pictures/Task%202%20Hardware.jpeg)
+
 
 ---
 
